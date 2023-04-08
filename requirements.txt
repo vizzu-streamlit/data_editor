@@ -5,5 +5,4 @@ imageio
 streamlit-extras
 scipy
 ipyvizzu
--e .
 st-pages
